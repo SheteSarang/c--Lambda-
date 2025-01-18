@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# NuGet packages
+packages/
+*.nupkg
+
+# .NET Core dependencies
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Secrets and configurations
+secrets.json
+appsettings*.json
+
+# Environment files
+.env
+.env.*
+
+# Visual Studio specific
+.vscode/
+.vs/
